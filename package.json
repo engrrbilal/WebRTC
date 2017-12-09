@@ -1,9 +1,25 @@
 {
-	"name": "intro-webrtc",
-	"version": "0.0.1",
-	"private": true,
-	"dependencies": {
-		"express": "4.x",
-		"ejs": "2.x"
-	}
+  "name": "intro-webrtc",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x",
+    "ejs": "2.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "Starting with WebRTC ",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/engrrbilal/WebRTC.git"
+  },
+  "author": "Muhammad Bilal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/engrrbilal/WebRTC/issues"
+  },
+  "homepage": "https://github.com/engrrbilal/WebRTC#readme"
 }
